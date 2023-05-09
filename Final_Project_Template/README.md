@@ -1,6 +1,6 @@
 # Write a Brief Descriptive Title Here
 
-Authors:  **Name 1**, **Name 2**, etc.
+Authors:  **Bharath Reddy Pullagurla**, **Vineeth Siddigari**, **Harsh Chimmani**, **Anirudh Korkonda Bhattar**
 
 YouTube Video:  [Link](http://your_link_goes_here)
 
@@ -11,14 +11,21 @@ YouTube Video:  [Link](http://your_link_goes_here)
 
 ---
 ## Task List
-*The table below will serve as your Progress Report (due by end of day on Monday, May 8).  Be sure to list all tasks that you need to complete to finish your analysis and to successfully complete the requirements of this project.*
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
 | 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
-| ... |  | | 
-| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
-| n | Upload README.md document to Github | 2023-05-17 |
+| 2 | Extract API data in json format (importing data into pandas dataframe) | 2023-05-02 | DONE |
+| 3 | Merging of two API with JSON format (Using 'usecols') | 2023-05-04| DONE |
+| 3 | Identifying outliers (Null values, data entry errors) |2023-05-05 | DONE |
+| 4 | Data Manipulation (Filtering, sorting, merging data, removing duplicates, reshaping data) | 2023-05-05 | DONE |
+| 5 | Gain insights with descriptive statistics (summarising, aggregating data with respect to cities and counties) | 2023-05-05 | DONE |
+| 6 | Data Visualization with matlplotlib and geopandas (Using folium library-heatmap, interactive maps) | 2023-05-07 | DONE |
+| 7 | Determine the areas with highest demand for EV charging  | 2023-05-10 | |
+| 8 | Identifying opportunities for improvement | 2023-05-12| |
+| 9 | Compile results from Analysis | 2023-05-14 | |
+| 10 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
+| 11 | Upload README.md document to Github | 2023-05-17 | |
 
 --- 
 
